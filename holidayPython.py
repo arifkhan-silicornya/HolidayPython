@@ -98,7 +98,22 @@ while(i < len(holidaysArray) ):
     i= i+1
 
 
+# State Information every state
 
+# {
+# "id" : id,
+# "Stock_Name" : name,
+# "Country" : country,
+# "State" : state,
+# "TodayTime" : TodayTime,
+# "TodayDate" : TodayDate,
+# "TodayDay" : TodayDay,
+# "TodayTimeString" : TodayTimeString,
+# "startT" : startT,
+# "endT" : endT,
+# "weekOff1" : off1,
+# "weekOff2" : off2,
+# }
 
 # Holiday = Object()
 # me.name = "Onur"
